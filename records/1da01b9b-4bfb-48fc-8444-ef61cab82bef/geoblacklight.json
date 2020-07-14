@@ -9,13 +9,10 @@
   "layer_slug_s": "stanford-1da01b9b-4bfb-48fc-8444-ef61cab82bef",
   "layer_geom_type_s": "Mixed",
   "layer_modified_dt": "2020-07-09T00:03:08Z",
-  "dc_format_s": "Service",
+  "dc_format_s": "Web Application",
   "dc_language_s": "English",
   "dc_type_s": "Service",
   "dc_publisher_s": "San Francisco Tenants Union",
-  "dc_creator_sm": [
-    "Temprano, Victor G."
-  ],
   "dc_subject_sm": [
     "Eviction",
     "Housing"
@@ -27,7 +24,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "solr_geom": "ENVELOPE(-180, 180, 90, -90)",
+  "solr_geom": "ENVELOPE(-125.102, -66.134, 50.1019992, 23.9979992)",
   "solr_year_i": 2020,
   "geoblacklight_version": "1.0"
 }
